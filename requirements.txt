@@ -1,0 +1,13 @@
+certifi==2018.11.29
+chardet==3.0.4
+Click==7.0
+idna==2.8
+ntplib==0.3.3
+pycurl==7.43.0.2
+pyinstall==0.1.4
+PyQt5==5.11.3
+PyQt5-sip==4.19.13
+pyqt5-tools==5.11.3.1.4
+python-dotenv==0.10.1
+requests==2.21.0
+urllib3==1.24.1
